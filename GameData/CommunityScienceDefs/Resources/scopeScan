@@ -1,6 +1,6 @@
 EXPERIMENT_DEFINITION
 {	
-	id = CSD_scopeScan
+	id = scopeScan
 	title = Orbital Telescope Observations
 	baseValue = 6
 	scienceCap = 6
@@ -193,15 +193,15 @@ EXPERIMENT_DEFINITION
 	VenusInSpaceLowVolcanicRise = Faint changes in the cloud cover suggest the presence of some high altitude mountains or volcanoes in this area.
 	VenusInSpaceHigh = Thick, brownish clouds envelope the entire planet; further study will be required before any knowledge of the surface can be acquired.
 	MoonInSpaceLow = Much of the Moon's bright surface is covered with overlapping craters.
-	MoonInSpaceLowLunarSeas = This dark, relatively smooth area of the Moon contrasts with the heavily cratered terrain covering most of the surface.
-	MoonInSpaceLowMajorCraters = Large impact craters pock mark much of the surface of the Moon.
-	MoonInSpaceLowFarSideBasin = This low-lying area is heavily cratered.
-	MoonInSpaceLowNorthPole = The cratered North Pole of the Moon might harbor water ice deposits.
-	MoonInSpaceLowSouthPole = Some deep craters are visible near the South Pole, these could potentially provide permanent shade that would allow water ice to form.
-	MoonInSpaceHigh = Everything looks a little grey, and really cratery.
+	MoonInSpaceLowLunarSeas =Â This dark, relatively smooth area of the Moon contrasts with the heavily cratered terrain covering most of the surface.
+	MoonInSpaceLowMajorCraters =Â Large impact craters pock mark much of the surface of the Moon.
+	MoonInSpaceLowFarSideBasin =Â This low-lying area is heavily cratered.
+	MoonInSpaceLowNorthPole =Â The cratered North Pole of the Moon might harbor water ice deposits.
+	MoonInSpaceLowSouthPole =Â Some deep craters are visible near the South Pole, these could potentially provide permanent shade that would allow water ice to form.
+	MoonInSpaceHigh =Â Everything looks a little grey, and really cratery.
 	MarsInSpaceLowLowlands = The low, flat northern plains of Mars are covered with a dark, reddish-brown soil.
 	MarsInSpaceLowMidlands = Mars' midlands are much more heavily cratered than most areas on the surface, perhaps this is more geologically old terrain.
-	MarsInSpaceLowHighlands = Fine details can be seen on the surface from this altitude, including some striations that suggest the possibility of recent surface level water flows.
+	MarsInSpaceLowHighlands =Â Fine details can be seen on the surface from this altitude, including some striations that suggest the possibility of recent surface level water flows.
 	MarsInSpaceLowOlympusMons = The remnants of an enormous volcano are seen from orbit. Mars must have had a very geologically active past.
 	MarsInSpaceLowVallesMarineris = The edges of this deep trench exhibit signs of geologic disruptions, suggesting that it may be the result of tectonic activity.
 	MarsInSpaceLowAreanMountains = A string of relatively small volcanoes are visible on the surface of this mountainous area.
